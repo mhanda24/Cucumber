@@ -1,0 +1,4 @@
+Steps\testsetup_quit.class
+Steps\TestLogin.class
+Steps\TestRegistration.class
+Steps\TestLoginRunner.class
